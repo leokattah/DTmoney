@@ -45,7 +45,7 @@ Before starting 🏁, you need to have [Git](https://git-scm.com) and [Node](htt
 
 ```bash
 # Clone this project
-$ 
+$ gh repo clone leokattah/DTmoney
 
 # Access
 $ cd dtmoney
@@ -63,7 +63,7 @@ $ yarn start
 
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
-Made with 💜 by <a href="" target="_blank">Leonardo Kattah</a>
+Made with 💜 by <a href="https://github.com/leokattah" target="_blank">Leonardo Kattah</a>
 
 &#xa0;
 
